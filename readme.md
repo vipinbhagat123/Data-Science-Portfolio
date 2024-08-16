@@ -3,7 +3,6 @@ Repository containing a portfolio of data science projects completed by me for a
 
 For a more visually pleasant experience for browsing the portfolio, check out [vipinbhagat.com](http://vipinbhagat.com) _(coming soon)_.
 
-#### The R portfolio is located [here](http://rpubs.com/vipin_bhagat).
 
 _Note: Data used in the projects (accessed under the `data` directory) is for demonstration purposes only._
 
@@ -39,13 +38,6 @@ _Note: Data used in the projects (accessed under the `data` directory) is for de
 		- [2016 US General Election Poll Data Analysis](https://github.com/vipinbhagat123/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb): Analyzed polling data from the 2016 US General Election.
 		- [911 Calls - Exploratory Analysis](https://github.com/vipinbhagat123/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Analyzed the 911 calls dataset from Kaggle to extract useful features.
 		
-	_Tools: Pandas, Folium, Seaborn, Matplotlib_
-
-	- __R__ 
-		- [Behavioral Risk Factor Surveillance System (BRFSS) 2013: Exploratory Data Analysis](http://rpubs.com/vipin_bhagat/brfss2013): Explored the BRFSS-2013 dataset to investigate the relationship between education, eating habits, sleep, mental health, and general health behaviors.
-		- [Inferential Statistics: Do men or women oppose sex education?](http://rpubs.com/vipin_bhagat/inferential_statistics): Used the GSS dataset to infer whether men in the US in 2012 were more likely to oppose sex education in public schools than women.
-		- [Data Visualization: Corruption and Human Development](http://rpubs.com/vipin_bhagat/corruption_viz): Visualized the relationship between the Human Development Index and the Corruption Perceptions Index of countries.
-		- [Moneyball: Analyzing and Replacing Lost Players](http://rpubs.com/vipin_bhagat/moneyball_lost_players): Analyzed baseball data from 2001 to find replacements for key players lost by the Oakland A's. Inspired by the book/movie "Moneyball."
 
 - ### Micro Projects:
 
@@ -55,9 +47,6 @@ _Note: Data used in the projects (accessed under the `data` directory) is for de
 		- [ML with Decision Trees and Random Forests](https://github.com/vipinbhagat123/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Predicted loan repayments using decision trees and random forests with data from LendingClub.com.
 		- [Movie Recommendations using Recommender Systems](https://github.com/vipinbhagat123/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): Built a recommender system that suggests movies based on user review similarities.
 
-	- __R__
-		- [ML Logistic Regression](http://rpubs.com/vipin_bhagat/micro_logistic): Predicted salary class using logistic regression.
-		- [ML Decision Trees and Random Forests](http://rpubs.com/vipin_bhagat/micro_dt_rf): Used decision trees and random forests to classify schools as private or public.
 
 I also dabble in various other technologies. You can find a general portfolio [here](https://github.com/vipinbhagat123/general-portfolio/blob/master/README.md).
 
