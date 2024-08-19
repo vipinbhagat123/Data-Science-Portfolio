@@ -3,7 +3,7 @@ Repository containing a portfolio of data science projects completed by me for a
 
 For a more visually pleasant experience for browsing the portfolio, check out [vipinbhagat.com](http://vipinbhagat.com) _(coming soon)_.
 
-
+ 
 _Note: Data used in the projects (accessed under the `data` directory) is for demonstration purposes only._
 
 ## Instructions for Running Python Notebooks Locally
