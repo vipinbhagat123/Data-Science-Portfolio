@@ -5,7 +5,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [v
 
  
 _Note: Data used in the projects (accessed under the `data` directory) is for demonstration purposes only._
-
+ 
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using `requirements.txt`.
 2. Run notebooks using a Jupyter notebook server, VS Code, or another platform.
